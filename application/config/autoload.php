@@ -80,7 +80,7 @@ $autoload['helper'] = array('url');
 |
 */
 
-$autoload['config'] = array('metaconfig');
+$autoload['config'] = array('metaconfig','admin');
 
 
 /*
