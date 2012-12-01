@@ -14,6 +14,11 @@
 	</div>
 	<div class="control-group">
 		<div class="controls">
+			<?=$ulogin?>
+		</div>
+	</div>
+	<div class="control-group">
+		<div class="controls">
 			<button type="submit" class="btn">Войти</button>
 		</div>
 	</div>
